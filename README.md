@@ -1,2 +1,3 @@
-# laughing-waffle
-my first repository with practice
+hi，
+  i'm new；
+  i'm  excited about learning code
